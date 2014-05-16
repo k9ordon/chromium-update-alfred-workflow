@@ -6,7 +6,7 @@ Update your OSX Chromium to the latest nightly build. A Workflow for [Alfred](ht
 ## Installation
 
 - Get Alfred & the [Powerpack](http://www.alfredapp.com/powerpack/)
-- [Download Workflow](http://www.packal.org/workflow/chromium-update) (hosted at packal.org)
+- [Download Workflow](https://github.com/k9ordon/chromium-update-alfred-workflow/releases/tag/1.0) ([Alternative Download](http://www.packal.org/workflow/chromium-update) - packal.org)
 - Double click to install
 
 ## Usage
